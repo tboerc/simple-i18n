@@ -1,0 +1,11 @@
+{
+  "name": "simple-i18n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "tboerc",
+  "license": "MIT"
+}
